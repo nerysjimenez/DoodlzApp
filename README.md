@@ -3,4 +3,4 @@
     Nerys Jimenez
     College of Saint Rose
     
-    Doodles app which allows users to finger paint with different colors.
+    Doodlz app is an Android app written in Java which allows users to finger paint with different colors.
